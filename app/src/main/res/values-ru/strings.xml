@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Голосовой ассистент</string>
+    <string name="questionField">Задайте вопрос</string>
+    <string name="sendButton">Отправить</string>
+    <string name="user">Пользователь</string>
+    <string name="assistantName">Ассистент</string>
+    <string name="DayThemeType">Дневная тема</string>
+    <string name="NightThemeType">Ночная тема</string>
+</resources>
